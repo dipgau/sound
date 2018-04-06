@@ -1,3 +1,4 @@
+#include "comm.h"
 #include "sound.h"
 #include "screen.h"
 #include <stdio.h>
@@ -39,6 +40,9 @@ void displayBar(char filename[]){
 		bar(i, dB);
 #endif
 	}	// for
+#ifdef COMM		// conditional compilation
+	sendToServer(rms_80);
+#endif
 }// function
 // function drfination of displayWAVheader()
 void displayWAVheader(char filename[]){
