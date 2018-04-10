@@ -5,9 +5,9 @@
 #include <math.h>
 
 // function defination of displayBar()
-// this function opens the "test.wav" file and read the seconpart (data) of 
+// this function opens the "test.wav" file and read the second part (data) of 
 // the file The samples should be in S16_LE format, and there are 16000 of
-// them. The functionrocesses every 200 samples and calculate their RMS value
+// them. The function processes every 200 samples and calculate their RMS value
 // and renders this value as a vertical bar on terminal screen
 void displayBar(char filename[]){
 	FILE *fp;

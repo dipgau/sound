@@ -9,6 +9,6 @@ $(APPNAME) : $(OBJ)
 	gcc -c -o $@ $<
 	
 clean :
-	rm $(OBJ) $(APPNAME)
+	rm $(OBJ) $(APPNAME) $(WAVNAME)
 archive:
-	tar cf $(TAR) *
+	tar cf $(TAR) *.c *.h README.txt
