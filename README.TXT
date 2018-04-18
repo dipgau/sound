@@ -38,13 +38,13 @@ Table of Content:
 4. Manifest (list of files and short description of their roles)
 	 comm.c - This function takes in RMS value of 1 second
 	 comm.h - This function is used to access the PHP file located in server and store the recorded data
-	 main.c -  record 1 sec of sound into test.wav
-	 screen.c - contains screen manipulation functions, such as clearScreen(), gotoxy(), setColor(), etc 
+	 main.c - Record 1 sec of sound into test.wav
+	 screen.c - Contains screen manipulation functions, such as clearScreen(), gotoxy(), setColor(), etc 
 	 screen.h - This is the header file and contains screen display style and other graphical things and is accessed by screen.c file
 	 sound.a - This file is used to run the application
 	 sound.c - The function processes every 200 samples and calculate their RMS value
-	 and shows this value as a vertical bar on screen
-	 sound.h	- This file is used for processing sound (WAV) file
+			   and shows this value as a vertical bar on screen
+	 sound.h - This file is used for processing sound (WAV) file
 	 makefile - This file updates the changes made in the project
 
 5. Acknowledgements: This project is done under  the guidance of Mr. Gao Chao(original owner of this application) and I would like to thank him very much.
