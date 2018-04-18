@@ -47,8 +47,7 @@ Table of Content:
 	 sound.h	- This file is used for processing sound (WAV) file
 	 makefile - This file updates the changes made in the project
 
-5. Acknowledgements: This project is done under  the guidance of Mr. Gao Chao(original owner of this application) and I would like to 
-					 thank him very much.
+5. Acknowledgements: This project is done under  the guidance of Mr. Gao Chao(original owner of this application) and I would like to thank him very much.
 					 
 5. License: Permissive FOSS license 
  
