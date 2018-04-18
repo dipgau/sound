@@ -49,6 +49,6 @@ Table of Content:
 
 5. Acknowledgements: This project is done under  the guidance of Mr. Gao Chao(original owner of this application) and I would like to thank him very much.
 					 
-5. License: Permissive FOSS license 
+6. License: Permissive FOSS license 
  
-6. Contact Informatio Dipesh Gautam, e1701299@edu.vamk.fi	
+7. Contact Informatio Dipesh Gautam, e1701299@edu.vamk.fi	
