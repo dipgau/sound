@@ -40,10 +40,11 @@ Table of Content:
 	 comm.h - This function is used to access the PHP file located in server and store the recorded data
 	 main.c - Record 1 sec of sound into test.wav
 	 screen.c - Contains screen manipulation functions, such as clearScreen(), gotoxy(), setColor(), etc 
-	 screen.h - This is the header file and contains screen display style and other graphical things and is accessed by screen.c file
+	 screen.h - This is the header file and contains screen display style and other graphical things 
+	 and is accessed by screen.c file
 	 sound.a - This file is used to run the application
 	 sound.c - The function processes every 200 samples and calculate their RMS value
-			   and shows this value as a vertical bar on screen
+	 and shows this value as a vertical bar on screen
 	 sound.h - This file is used for processing sound (WAV) file
 	 makefile - This file updates the changes made in the project
 
