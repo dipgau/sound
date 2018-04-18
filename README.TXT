@@ -52,4 +52,4 @@ Table of Content:
 					 
 6. License: Permissive FOSS license 
  
-7. Contact Informatio Dipesh Gautam, e1701299@edu.vamk.fi	
+7. Contact Information: Dipesh Gautam, e1701299@edu.vamk.fi	
